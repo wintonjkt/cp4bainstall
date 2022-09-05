@@ -26,7 +26,13 @@
   https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/22.0.1?topic=console-installing-catalogs
   
 ## Setup PostgresDB
-
+  
   Follow the instruction in the following link:
   
   https://www.sumologic.com/blog/kubernetes-deploy-postgres/
+  
+## Install Capabilities
+  
+  Follow the instruction in the following link:
+    
+  https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/22.0.1?topic=console-installing-capabilities-in-red-hat-openshift
